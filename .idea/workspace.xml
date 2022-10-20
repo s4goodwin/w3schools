@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ffcd1e-3ea8-4b44-97a1-1dc6c9cdd1e8" name="Changes" comment="switches class">
-      <change afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/breakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forLoopEach.java" afterDir="false" />
+    <list default="true" id="90ffcd1e-3ea8-4b44-97a1-1dc6c9cdd1e8" name="Changes" comment="forLoopEach and breakContinue classes added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.forLoopEach">
+  <component name="RunManager" selected="Application.arrays">
+    <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays" />
+      <module name="w3schools" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="booleans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="booleans" />
       <module name="w3schools" />
@@ -66,20 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings" />
-      <module name="w3schools" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrays" />
         <item itemvalue="Application.forLoopEach" />
         <item itemvalue="Application.ifElse" />
         <item itemvalue="Application.booleans" />
         <item itemvalue="Application.math" />
-        <item itemvalue="Application.strings" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666293843105</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="forLoopEach and breakContinue classes added">
+      <created>1666300122876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666300122876</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added ifElse class" />
     <MESSAGE value="switches class" />
-    <option name="LAST_COMMIT_MESSAGE" value="switches class" />
+    <MESSAGE value="forLoopEach and breakContinue classes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="forLoopEach and breakContinue classes added" />
   </component>
 </project>
