@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ffcd1e-3ea8-4b44-97a1-1dc6c9cdd1e8" name="Changes" comment="forLoopEach and breakContinue classes added">
+    <list default="true" id="90ffcd1e-3ea8-4b44-97a1-1dc6c9cdd1e8" name="Changes" comment="arrays class added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
     </list>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666300122876</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="arrays class added">
+      <created>1666301044564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666301044564</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +136,7 @@
     <MESSAGE value="added ifElse class" />
     <MESSAGE value="switches class" />
     <MESSAGE value="forLoopEach and breakContinue classes added" />
-    <option name="LAST_COMMIT_MESSAGE" value="forLoopEach and breakContinue classes added" />
+    <MESSAGE value="arrays class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays class added" />
   </component>
 </project>
