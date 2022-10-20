@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ffcd1e-3ea8-4b44-97a1-1dc6c9cdd1e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/booleans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ifElse.java" afterDir="false" />
+    <list default="true" id="90ffcd1e-3ea8-4b44-97a1-1dc6c9cdd1e8" name="Changes" comment="added ifElse class">
+      <change afterPath="$PROJECT_DIR$/src/switchs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/typeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/typeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666143298856</updated>
     </task>
+    <task id="LOCAL-00001" summary="added ifElse class">
+      <created>1666229493954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666229493954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added ifElse class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ifElse class" />
   </component>
 </project>
